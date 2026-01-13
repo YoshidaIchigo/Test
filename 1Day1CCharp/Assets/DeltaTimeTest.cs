@@ -17,6 +17,7 @@ public class DeltaTimeTest : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        // TODO ‰½‚Æ‚È‚­ƒeƒXƒg‚Å‘‚¢‚Ä‚İ‚½
         if (timerRunning)
         {
             timeElapsed += Time.deltaTime;
